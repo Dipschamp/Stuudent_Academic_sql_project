@@ -22,9 +22,9 @@ Excel: For preliminary data exploration, pattern identification, and visualizati
 
 # Datasets
 - Dataset 1: Academic and Personal Characteristics
-  Includes details such as grades, family size, parental occupations, and study habits.
+      Includes details such as grades, family size, parental occupations, and study habits.
 - Dataset 2: Technical Skills and Career Interests
-  Focuses on GPA, technical skills, career preferences, and project experience.
+      Focuses on GPA, technical skills, career preferences, and project experience.
 
   
 
