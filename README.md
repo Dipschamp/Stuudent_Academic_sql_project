@@ -33,6 +33,15 @@ Excel: For preliminary data exploration, pattern identification, and visualizati
 
 # About the Author:
 This project represents an important step in my journey into data analysis, providing valuable practical experience with SQL and database management. It has strengthened my foundation in data-driven problem-solving and fueled my passion for uncovering actionable insights from complex datasets. As an enthusiastic learner, I am committed to advancing my skills in SQL, data visualization, and analytics to address real-world challenges and drive meaningful impact.
+
+# Contact:
+Dipali Patel
+
+Email: dipalipatel12it@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/dipali-patel-937591106/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
+Feel free to reach out for collaboration or inquiries about this project.
   
 
   
